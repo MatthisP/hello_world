@@ -1,2 +1,2 @@
 # hello_world
-repository for a test
+This is a test, just a test.
